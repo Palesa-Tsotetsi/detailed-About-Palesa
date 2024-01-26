@@ -1,12 +1,25 @@
 h1{
     font-family: "Playfair Display";
     fill: black;
+    padding: 20px;
+    
 }
 h4{
     font-family: 'Poppins', sans-serif;
+    padding-top: 150px;
     
+     
 }
 h6{
     font-family: 'Poppins', sans-serif;
-    
+    padding-bottom: 40px;
+      
 }
+.homepage{
+    text-align: center;
+}
+.poppins-700{
+    font-weight:600;
+    fill: rgba(62, 34, 165, 0.89);
+    }
+
