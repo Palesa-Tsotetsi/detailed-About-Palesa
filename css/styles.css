@@ -21,5 +21,17 @@ h6{
 .poppins-700{
     font-weight:600;
     fill: rgba(62, 34, 165, 0.89);
-    }
+}
+.container-footer{
+    margin: auto;
+    background-color: lightgrey;
+    width: 750px;
+    border: 5px;
+    padding: 50px;
+    
+}
+.btn{
+    background-color: blueviolet;
+    color: aliceblue;
 
+}
