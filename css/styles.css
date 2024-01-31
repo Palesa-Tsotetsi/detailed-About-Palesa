@@ -25,9 +25,9 @@ h6{
 .container-footer{
     margin: auto;
     background-color: lightgrey;
-    width: 750px;
+    width: auto;
     border: 5px;
-    padding: 50px;
+    padding: 30px;
     
 }
 .btn{
@@ -42,5 +42,8 @@ h6{
 }
 footer{
   padding-top: 90px;
+}
+.mail{
+    padding-top: 20px;
 }
 
